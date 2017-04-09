@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Obj/
+obj/
+Debug/
+Build/
+*.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+*.sdf
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Folder config file
+Desktop.ini
+ 
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASSET STORE
+Assets/Hard Surface Free
+Assets/ArtzkillZnetTexturePack01
+Assets/Editor
+Assets/Plugins
+Assets/Standard Assets
+Assets/Standard Assets (Mobile)
+Assets/OVR
+Assets/OVRLipSync
+Assets/OSP

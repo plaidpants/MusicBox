@@ -1,0 +1,27 @@
+How to Install this Font (from the Windows XP guide):
+*****************************************************
+To add a new font to your computer
+
+Open Fonts in Control Panel. 
+On the File menu, click Install New Font. 
+In Drives, click the drive you want. 
+In Folders, double-click the folder that contains the fonts you want to add.
+
+In List of fonts, click the font you want to add, and then click OK. 
+To add all of the listed fonts, click Select All, and then click OK.
+
+ Notes
+
+To open Fonts, click Start, click Control Panel, and then double-click Fonts. 
+To select more than one font to add, hold down the CTRL key, and then click each of the fonts you want to add. 
+You can also drag OpenType, TrueType, Type 1, and raster fonts from another location to add them to the Fonts folder. This works only if the font is not already in the Fonts folder. 
+To add fonts from a network drive without using disk space on your computer, make sure that the Copy fonts to Fonts folder check box, in the Add Fonts dialog box, is clear. This is available only when you install OpenType, TrueType, or raster fonts using the Install New Font option on the File menu.
+
+Note:
+
+The file ending in .fog is the Fontographer file, which you can use to edit and create new fonts based upon this one.
+
+All that I ask is that you acknowledge this font as the starting point of any new font you create.  Thanks.
+
+Matthew Hindson
+http://www.hindson.com.au
